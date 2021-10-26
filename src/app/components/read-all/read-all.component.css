@@ -38,7 +38,7 @@ p {
 }
 
 .actions {
-    text-align: end;
+    margin: .5rem;
 }
 
 .actions button {
